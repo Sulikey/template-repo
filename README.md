@@ -2,7 +2,7 @@
 
 #### This repo is meant to be used as a template for further applications at Epicodus
 
-#### By Bodie Wood
+#### By Anahi Ruiz Robles 
 
 ## Technologies Used
 
